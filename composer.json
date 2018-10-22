@@ -1,0 +1,13 @@
+{
+    "name": "improfe/zend-expressive-monolog",
+    "description": "Monolog integration for zend expressive",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johannes Lichtenwallner",
+            "email": "improfe@lichtenwallner.at"
+        }
+    ],
+    "require": {}
+}
